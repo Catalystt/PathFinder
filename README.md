@@ -4,4 +4,4 @@ Using an path finder algorithm it can display a path that avoids walls/objects i
 Or give you a direct path to your destination if there are no obstructions in your way. 
 It will track you're movements and directions with an accelerometer and magnetic field sensors, and update the path and instructions accordingly.
 
-Map files must be in Scaleable Vector Grapics (.svg) format, and must be placed in the apps/Lab4_203_17 in order for this to work correctly, otherwise it will crash. 
+Map files must be in Scaleable Vector Grapics (.svg) format, and must be placed in the /Android/data/Lab4_203_17 in order for this to work correctly, otherwise it will crash. 
